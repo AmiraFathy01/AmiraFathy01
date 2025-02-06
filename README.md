@@ -20,4 +20,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirafathy01&show_icons=true&locale=en" alt="amirafathy01" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirafathy01&" alt="amirafathy01" /></p>
