@@ -5,12 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=amirafathy01&label=Profile%20views&color=0e75b6&style=flat" alt="amirafathy01" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=amirafathy01&theme=gruvbox" alt="Trophies" />
-  </a>
-</p>
-
 ____
 
 <div align="center">
@@ -19,7 +13,6 @@ ____
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amirafathy01&label=Profile%20views&color=22D3EE&style=flat" alt="amirafathy01" /> 
-  <a href="https://twitter.com/yourusername" target="blank"><img src="https://img.shields.io/twitter/follow/yourusername?logo=twitter&style=flat" alt="yourusername" /></a>
 </p>
 
 <p align="center">
@@ -28,7 +21,7 @@ ____
   </a>
 </p>
 
----
+
 ---
 
 ### 💡 About Me
