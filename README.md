@@ -11,6 +11,24 @@
   </a>
 </p>
 
+____
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=AI+Engineer;NLP+Specialist;Computer+Vision+Expert;Deep+Learning+Developer;Multilingual+AI+Solutions" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amirafathy01&label=Profile%20views&color=22D3EE&style=flat" alt="amirafathy01" /> 
+  <a href="https://twitter.com/yourusername" target="blank"><img src="https://img.shields.io/twitter/follow/yourusername?logo=twitter&style=flat" alt="yourusername" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=amirafathy01&theme=onedark&no-frame=true&row=1&margin-w=15" alt="Trophies" />
+  </a>
+</p>
+
+---
 ---
 
 ### 💡 About Me
