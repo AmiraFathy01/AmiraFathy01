@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eng. Amira Fathy</h1>
 <h3 align="center">AI & Machine Learning Engineer | NLP Specialist | Deep Learning |  Computer Vision Specialist </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amirafathy01&label=Profile%20views&color=0e75b6&style=flat" alt="amirafathy01" />
-</p>
+
 
 ____
 
